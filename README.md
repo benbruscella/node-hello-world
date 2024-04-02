@@ -1,5 +1,11 @@
 # node-hello-world
 
+ - git (https://git-scm.com/)
+ - nvm (https://github.com/nvm-sh/nvm)
+ - npm (https://www.npmjs.com/)
+ - nodeJS (https://nodejs.org/en)
+ - some javascript & the command line
+
 ## Step 1
 
 Command: `nvm use`
